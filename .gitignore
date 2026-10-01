@@ -1,0 +1,16 @@
+# This repository is a documentation publication, not the training workspace.
+.env
+.env.*
+.DS_Store
+Thumbs.db
+__pycache__/
+.cache/
+private/
+checkpoints/
+datasets/
+logs/
+*.engine
+*.onnx
+*.pth
+*.pt
+*.safetensors

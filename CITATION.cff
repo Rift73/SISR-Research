@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the repository version or commit used, alongside relevant original papers."
+title: "SISR Research"
+type: dataset
+authors:
+  - name: "Rift73"
+version: "0.1.0"
+date-released: 2026-10-01
+license: CC-BY-4.0
+url: "https://github.com/Rift73/SISR-Research"
+abstract: "A curated architecture research notebook: hypotheses, deployment measurements, reported quality observations, negative results and reusable experiment contracts."
